@@ -1,0 +1,15 @@
+D:\Обучение С#\Domashnee8\dom8\bin\Debug\net7.0\dom8.exe
+D:\Обучение С#\Domashnee8\dom8\bin\Debug\net7.0\dom8.deps.json
+D:\Обучение С#\Domashnee8\dom8\bin\Debug\net7.0\dom8.runtimeconfig.json
+D:\Обучение С#\Domashnee8\dom8\bin\Debug\net7.0\dom8.dll
+D:\Обучение С#\Domashnee8\dom8\bin\Debug\net7.0\dom8.pdb
+D:\Обучение С#\Domashnee8\dom8\obj\Debug\net7.0\dom8.csproj.AssemblyReference.cache
+D:\Обучение С#\Domashnee8\dom8\obj\Debug\net7.0\dom8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение С#\Domashnee8\dom8\obj\Debug\net7.0\dom8.AssemblyInfoInputs.cache
+D:\Обучение С#\Domashnee8\dom8\obj\Debug\net7.0\dom8.AssemblyInfo.cs
+D:\Обучение С#\Domashnee8\dom8\obj\Debug\net7.0\dom8.csproj.CoreCompileInputs.cache
+D:\Обучение С#\Domashnee8\dom8\obj\Debug\net7.0\dom8.dll
+D:\Обучение С#\Domashnee8\dom8\obj\Debug\net7.0\refint\dom8.dll
+D:\Обучение С#\Domashnee8\dom8\obj\Debug\net7.0\dom8.pdb
+D:\Обучение С#\Domashnee8\dom8\obj\Debug\net7.0\dom8.genruntimeconfig.cache
+D:\Обучение С#\Domashnee8\dom8\obj\Debug\net7.0\ref\dom8.dll
